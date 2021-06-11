@@ -1,7 +1,13 @@
 .idea
 .gradle
+gradle
 .allure
+
 build
 video
 out
 allure-results
+.gitattributes
+gradlew
+gradlew.bat
+settings.gradle
