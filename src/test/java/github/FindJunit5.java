@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class findJunit5 {
+public class FindJunit5 {
     @Test
     void junit5() {
         //Открыть страницу Selenide в Github
